@@ -1,10 +1,10 @@
 # Book Store Project
 
 ## Backend API
-https://github.com/congle9103/backendApi
+https://github.com/congle9103/projectBookStore-BackendAPi 
 
 ## Admin UI
-https://github.com/congle9103/ui-admin
+https://github.com/congle9103/projectBookStore-UiAdmin 
 
 ## Client UI
-https://github.com/congle9103/ui-client
+https://github.com/congle9103/projectBookStore-UiClient 
